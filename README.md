@@ -25,11 +25,6 @@ Users can order multiple quantities of a food item, and the system automatically
 - Check available food quantities
 - Handle invalid menu choices
 
-## Technologies Used
-
-- Java
-- Java Collections Framework
-
 ## OOP Concepts Used
 
 ### 1. Encapsulation
