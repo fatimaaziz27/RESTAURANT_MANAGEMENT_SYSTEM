@@ -24,9 +24,3 @@ Users can order multiple quantities of a food item, and the system automatically
 - Validate food IDs
 - Check available food quantities
 - Handle invalid menu choices
-
-## Author
-
-Fatima Aziz
-
-GitHub: [fatimaaziz27](https://github.com/fatimaaziz27)
